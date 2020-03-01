@@ -621,21 +621,21 @@ disqusjs:
 # Changyan
 changyan:
   enable: false
-  appid:
-  appkey:
+  appid: cyuIlb5l1
+  appkey: 4f0d95d6dbedf1fd9bb6b8c2649615fe
   #post_meta_order: 0
 
 # Valine
 # For more information: https://valine.js.org, https://github.com/xCss/Valine
 valine:
-  enable: false
-  appid: # Your leancloud application appid
-  appkey: # Your leancloud application appkey
+  enable: true
+  appid: rt1sFVX7WbWsY7fbvc0VJ9mu-gzGzoHsz
+  appkey: beXthE61QCz8rFSCYQOgk3C0
   notify: false # Mail notifier
   verify: false # Verification code
-  placeholder: Just go go # Comment box placeholder
-  avatar: mm # Gravatar style
-  guest_info: nick,mail,link # Custom comment header
+  placeholder: Say something... # Comment box placeholder
+  avatar: hide # Gravatar style
+  guest_info: nick,mail # Custom comment header
   pageSize: 10 # Pagination size
   language: zh-cn # Language, available values: en, zh-cn
   visitor: false # Article reading statistic
@@ -646,7 +646,7 @@ valine:
 
 # LiveRe comments system
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC80MjkwMy8xOTQ0OQ
+livere_uid: # MTAyMC80MjkwMy8xOTQ0OQ
 
 # Gitalk
 # For more information: https://gitalk.github.io, https://github.com/gitalk/gitalk
