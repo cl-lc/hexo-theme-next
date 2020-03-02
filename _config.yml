@@ -635,7 +635,7 @@ valine:
   verify: false # Verification code
   placeholder: Say something... # Comment box placeholder
   avatar: hide # Gravatar style
-  guest_info: nick # Custom comment header
+  guest_info: nick,mail # Custom comment header
   pageSize: 10 # Pagination size
   language: zh-cn # Language, available values: en, zh-cn
   visitor: false # Article reading statistic
